@@ -86,12 +86,12 @@ const MobileNavMenu = () => {
             Made with{' '}
             <FavoriteIcon style={{ fontSize: 10, color: '#f4649f' }} /> by{' '}
             <Link
-              href={'https://github.com/amand33p'}
+              href={'https://github.com/Vaishali'}
               color="inherit"
               target="_blank"
               rel="noopener"
             >
-              <strong>{` amand33p`}</strong>
+              <strong>{` Vaishali`}</strong>
             </Link>
           </Typography>
         </div>
