@@ -1,3 +1,3 @@
-const backendUrl = 'https://stackuflow.herokuapp.com';
+const backendUrl = 'https://vaishliserver-jnunoisde-xtelegram.vercel.app/';
 
 export default backendUrl;
