@@ -1,3 +1,3 @@
-const backendUrl = 'https://vaishliserver-jnunoisde-xtelegram.vercel.app/';
+const backendUrl = 'https://vaishliserver-production.up.railway.app/';
 
 export default backendUrl;
